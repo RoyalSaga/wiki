@@ -5,6 +5,7 @@
 ## Survival
 
 * [Rune](survival/rune/README.md)
+  * [Tinkerer](survival/rune/tinkerer.md)
   * [Enchanter](survival/rune/enchanter.md)
   * [Raritati](survival/rune/raritati.md)
 * [Untitled](survival/untitled.md)
