@@ -8,10 +8,4 @@
   * [Enchanter](survival/rune/enchanter.md)
   * [Tinkerer](survival/rune/tinkerer.md)
   * [Raritati](survival/rune/raritati.md)
-* [Untitled](survival/untitled.md)
-
-## Test
-
-* [Untitled](test/untitled/README.md)
-  * [Untitled](test/untitled/untitled.md)
 
