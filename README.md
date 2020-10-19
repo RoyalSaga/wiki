@@ -2,7 +2,7 @@
 
 ## Servere
 
-!\[jucatori\]\(https://img.shields.io/badge/dynamic/json?color=blue&label=%20&query=%24.players.online&url=https%3A%2F%2Fapi.minetools.eu%2Fping%2Froyalsaga.net\) jucatori online!
+&lt;img src="https://img.shields.io/badge/dynamic/json?color=blue&label=%20&query=%24.players.online&url=https%3A%2F%2Fapi.minetools.eu%2Fping%2Froyalsaga.net" /&gt; jucatori online!
 
 
 
