@@ -8,6 +8,12 @@
 
 
 
+!\[Test\]\([https://img.shields.io/badge/aaa-bbb-brightgreen](https://img.shields.io/badge/aaa-bbb-brightgreen)\)
+
+&lt;img src="[https://img.shields.io/badge/aaa-bbb-brightgreen](https://img.shields.io/badge/aaa-bbb-brightgreen)" /&gt;
+
+
+
 
 
 ![Click pentru a ni-te alatura pe serverul nostru de discord!](https://discord.com/api/guilds/308585268561182721/widget.png?style=banner3)
