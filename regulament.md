@@ -67,11 +67,12 @@ Conducerea serverului își rezervă dreptul de a lua decizii in afara regulamen
 **Altele**
 {% endhint %}
 
-* Folosirea unui username indecent trebuie evitată. Jucătorii cu mai mult de 3 ore jucate pe server vor fi ajutași să își mute itemele pe un alt cont, pentru a face asta sunteți rugați să deschideți un ticket pe [Discord](https://royalsaga.net/discord).
+* Folosirea unui username indecent trebuie evitată iar aceasta va duce la banarea contului. Jucătorii cu mai mult de 3 ore jucate pe server vor fi ajutați să își mute itemele pe un alt cont, pentru a face asta sunteți rugați să deschideți un ticket pe [Discord](https://royalsaga.net/discord).
 * Sitemele anti afk \(precum [afk pool](https://minecraft.gamepedia.com/Tutorials/Endless_circling_pool)\) sunt interzise, folosiți comanda `/afk` în schimb.
-* Toți jucătorii au obligația de a urma instrucțiunile membrilor staff \(ex daca un membru consideră ca aveți un comportament neadecvat\).
+* Toți jucătorii au obligația de a urma instrucțiunile membrilor staff.
 * Abuzul de `/helpop`, `/msg` sau `/pay` \(ex plata repetată către un jucător pentru a face spam\) va fi sancționat.
 * Cererea de iteme, fly, grade sau alte favoruri de la membrii staff este interzisă.
+* Setarea caselor pe o protecție fără aprobarea deținătorului trebuie evitată.
 {% endtab %}
 
 {% tab title="Donatori" %}
