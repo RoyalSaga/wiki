@@ -73,6 +73,7 @@ Conducerea serverului își rezervă dreptul de a lua decizii in afara regulamen
 * Abuzul de `/helpop`, `/msg` sau `/pay` \(ex plata repetată către un jucător pentru a face spam\) va fi sancționat.
 * Cererea de iteme, fly, grade sau alte favoruri de la membrii staff este interzisă.
 * Setarea caselor pe o protecție fără aprobarea deținătorului trebuie evitată.
+* Nu răspundem de itemele pierdute în urma unui `/tpa`.
 {% endtab %}
 
 {% tab title="Donatori" %}
