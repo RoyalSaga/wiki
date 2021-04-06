@@ -11,9 +11,3 @@
 
 * [Coduri pentru culori](tutoriale-resurse/coduri-pentru-culori.md)
 
-## Link-uri
-
----
-
-* [Discord](https://discord.me/royal)
-
