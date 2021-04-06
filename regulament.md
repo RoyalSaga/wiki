@@ -75,6 +75,7 @@ Conducerea serverului își rezervă dreptul de a lua decizii in afara regulamen
 * Setarea caselor pe o protecție fără aprobarea deținătorului trebuie evitată.
 * Nu răspundem de itemele pierdute în urma unui `/tpa`.
 * Este interzis să omorâți jucatorii cu mai putin de o zi jucată, cei care încalcă această regulă vor fi sancționați.
+* Dacă vi-se cere să plecați de pe protecția cuiva și refuzați, veți fi sancționați.
 {% endtab %}
 
 {% tab title="Donatori" %}
