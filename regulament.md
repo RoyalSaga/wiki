@@ -74,6 +74,7 @@ Conducerea serverului își rezervă dreptul de a lua decizii in afara regulamen
 * Cererea de iteme, fly, grade sau alte favoruri de la membrii staff este interzisă.
 * Setarea caselor pe o protecție fără aprobarea deținătorului trebuie evitată.
 * Nu răspundem de itemele pierdute în urma unui `/tpa`.
+* Este interzis să omorâți jucatorii cu mai putin de o zi jucată, cei care încalcă această regulă vor fi sancționați.
 {% endtab %}
 
 {% tab title="Donatori" %}
