@@ -7,13 +7,13 @@
 
 * [Rune](survival/rune.md)
 
+## Tutoriale & Resurse <a id="tutoriale-resurse"></a>
+
+* [Coduri pentru culori](tutoriale-resurse/coduri-pentru-culori.md)
+
 ## Link-uri
 
 ---
 
 * [Discord](https://discord.me/royal)
-
-## Tutoriale & Resurse <a id="tutoriale-resurse"></a>
-
-* [Coduri pentru culori](tutoriale-resurse/coduri-pentru-culori.md)
 
