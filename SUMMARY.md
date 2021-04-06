@@ -5,6 +5,8 @@
 
 ## Survival
 
+* [Rune](survival/rune.md)
+
 ## Link-uri
 
 ---

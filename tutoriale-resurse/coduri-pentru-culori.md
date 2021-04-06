@@ -1,5 +1,5 @@
 ---
-description: Lista de coduri
+description: Lista de coduri pentru culori.
 ---
 
 # Coduri pentru culori

@@ -37,7 +37,7 @@ Conducerea serverului își rezervă dreptul de a lua decizii in afara regulamen
 #### Reclamă
 {% endhint %}
 
-* Este stric interzisă promovarea altor servere sau comunități \(IP / [DNS](https://ro.wikipedia.org/wiki/Sistem_de_nume_de_domeniu)\) prin orice formă de comunicare \(ex chat public, mesaje private, semne, cărți, etc.\).
+* Este stric interzisă promovarea altor servere sau comunități \(IP / [DNS](https://ro.wikipedia.org/wiki/Sistem_de_nume_de_domeniu)\) prin orice formă de comunicare \(ex chat public, mesaje private, semne, cărți, etc.\). De asemenea, este interzisă promovarea serverului RoyalSaga pe chatul altor servere / comunități sau alte locuri precum forumurile acestora.
 * Menționarea numelui \(sau prescurtare\) unui server cu scopul de a vă întâlnii pe acesta este de asemenea considerată reclamă.
 * Este interzisă promovarea conturilor personale pe rețelele de socializare, YouTube, Twitch, siteuri persoanele, etc.
 
