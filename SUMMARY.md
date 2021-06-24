@@ -5,6 +5,7 @@
 
 ## Survival
 
+* [Textura](survival/textura.md)
 * [Rune](survival/rune.md)
 
 ## Tutoriale & Resurse <a id="tutoriale-resurse"></a>
