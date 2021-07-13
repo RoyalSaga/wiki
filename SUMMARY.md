@@ -5,8 +5,11 @@
 
 ## Survival
 
-* [Textura](survival/textura.md)
+* [Changelog](survival/changelog/README.md)
+  * [Sezonul 2](survival/changelog/s2.md)
 * [Rune](survival/rune.md)
+* [Textura](survival/textura/README.md)
+  * [Intrebari frecvente](survival/textura/intrebari-frecvente.md)
 
 ## Tutoriale & Resurse <a id="tutoriale-resurse"></a>
 
