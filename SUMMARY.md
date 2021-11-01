@@ -2,6 +2,7 @@
 
 * [Acasa](README.md)
 * [Regulament](regulament.md)
+* [Penalizari](penalizari.md)
 
 ## Survival
 
@@ -11,7 +12,6 @@
 * [Textura](survival/textura/README.md)
   * [Intrebari frecvente](survival/textura/intrebari-frecvente.md)
 
-## Tutoriale & Resurse <a id="tutoriale-resurse"></a>
+## Tutoriale & Resurse <a href="tutoriale-resurse" id="tutoriale-resurse"></a>
 
 * [Coduri pentru culori](tutoriale-resurse/coduri-pentru-culori.md)
-
